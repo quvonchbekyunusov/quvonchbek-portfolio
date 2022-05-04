@@ -1,4 +1,4 @@
-# PortfolioV2
+<!-- # PortfolioV2
 
 ![PortfolioV2](/images/portfolio1.gif)
 
@@ -42,7 +42,7 @@
 - Run `npm run deploy` to build and create a branch called `gh-pages`. It will push the `build` files to that branch.
 - The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
 
-Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
+Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.
 
 
 # Technologies used 🛠️
@@ -61,4 +61,4 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 # References
 
 Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
+Illustrations: https://undraw.co/ -->

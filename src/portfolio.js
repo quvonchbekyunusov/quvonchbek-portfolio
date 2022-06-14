@@ -266,7 +266,7 @@ const degrees = {
       duration: "2017 - 2021",
       descriptions: [
         "⚡I graduated from the Faculty of Software Engineering.",
-        "⚡Men HTML, CSS, Java Script va boshqalar kabi asosiy fanlarni o'rgandim.",
+        "⚡I learned basic sciences like HTML, CSS, Java Script and more.",
         "⚡ I have also completed various online courses for Web , Desktop App,  Mobile App Development, etc.",
         // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
@@ -509,10 +509,35 @@ const projects = {
   data: [
     {
       id: "0",
+      name: "Apex Pizza for clients - Android and IOS Application",
+      url: "https://play.google.com/store/apps/details?id=com.apexorder",
+      description:
+        "Apex Pizza is an application which is developed in React Native. It is a mobile application which is developed for a pizza shop. Through the program, customers can order the product of their choice. Currently android users 10 000+, ios users 7000+",
+      languages: [
+        {
+          name: "React Native",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Typescript",
+          iconifyClass: "logos-typescript",
+        },
+        {
+          name: "Redux-Toolkit",
+          iconifyClass: "logos-redux",
+        },
+        {
+          name: "React Query",
+          iconifyClass: "simple-icons:react-query",
+        },
+      ],
+    },
+    {
+      id: "1",
       name: "Biznes Azia - Android Application",
       url: "https://play.google.com/store/apps/details?id=com.biznesazia",
       description:
-        "Biznes Azia is an application which helps users to find the best deals and offers in the market. It is a mobile application which is developed in React Native.",
+        "Biznes Azia is an application which helps users to find the best deals and offers in the market. It is a mobile application which is developed in React Native. optimized components are used in the application. You can log in via Pincode or fingerprint id and work offline",
       languages: [
         {
           name: "Java Script",
@@ -524,35 +549,7 @@ const projects = {
         },
       ],
     },
-    {
-      id: "1",
-      name: "Apex Wear - Desktop Application",
-      url: "#",
-      description:
-        "Apex Wear is a desktop application which is developed in React and Electron. ",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "scss",
-          iconifyClass: "vscode-icons:file-type-scss",
-        },
-        {
-          name: "React",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "Electron",
-          iconifyClass: "logos-electron",
-        },
-        {
-          name: "Redux-toolkit",
-          iconifyClass: "logos-redux",
-        },
-      ],
-    },
+
     {
       id: "2",
       name: "Lavina Tech - Landing Page",
@@ -576,29 +573,34 @@ const projects = {
     },
     {
       id: "3",
-      name: "Apex Pizza for clients - Android and IOS Application",
-      url: "#",
+      name: "Apex Wear - Desktop Application",
+      url: "/",
       description:
-        "Apex Pizza is an application which is developed in React Native. It is a mobile application which is developed for a pizza shop. ",
+        "Apex Wear is a desktop application which is developed in React and Electron. Through this program, enterprise vendors can conduct product sales",
       languages: [
         {
-          name: "React Native",
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "scss",
+          iconifyClass: "vscode-icons:file-type-scss",
+        },
+        {
+          name: "React",
           iconifyClass: "logos-react",
         },
         {
-          name: "Typescript",
-          iconifyClass: "logos-typescript",
+          name: "Electron",
+          iconifyClass: "logos-electron",
         },
         {
-          name: "Redux-Toolkit",
+          name: "Redux-toolkit",
           iconifyClass: "logos-redux",
-        },
-        {
-          name: "React Query",
-          iconifyClass: "simple-icons:react-query",
         },
       ],
     },
+
     // {
     //   id: "4",
     //   name: "",

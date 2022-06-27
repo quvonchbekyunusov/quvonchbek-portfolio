@@ -415,7 +415,7 @@ const experience = {
           company_url: "https://zetsoft.uz/",
           logo_path: "zet.svg",
           duration: "Dec 2020 - Feb 2021",
-          location: "Ofice",
+          location: "Office",
           description:
             "I am working on a project which is a web application for managing and tracking team projects. I am working on the Frontend of the project.",
           color: "#4285F4",

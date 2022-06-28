@@ -25,7 +25,7 @@ const socialMediaLinks = {
   github: "https://github.com/quvonchbekyunusov",
   linkedin: "https://www.linkedin.com/in/quvonchbek-yunusov-80bb48230/",
   gmail: "quvonchbekyunusov998@gmail.com",
-  tg: "https://t.me/tuit_311_17",
+  tg: "https://t.me/yunusov_dev",
   facebook: "https://www.facebook.com/quvonchbek.yunusov.5/",
   twitter: "#",
   instagram: "https://www.instagram.com/quvonchbek_yunusov/",
